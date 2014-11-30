@@ -1,0 +1,17 @@
+{
+	"name" : "Giancarlo - 2º Projeto Php OO - Portal Code Education",
+	"authors" : [
+        {
+			"name" : "Giancarlo Poltronieri",
+			"email" : "italiagian@hotmail.com"
+		}
+	],
+    	"mininum-stability" : "dev",
+	"autoload" : {
+		"psr-4" : {
+		    "src\\app\\classes\\" : "src/app/classes/",
+            "src\\app\\interfaces\\" : "src/app/interfaces/"
+		}
+	}
+}
+
